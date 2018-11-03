@@ -1,3 +1,25 @@
+# CWRUBotixMateROV18-19
+
+### Hardware Needed:
+
+- PixHawk
+- Raspberry Pi
+    - RPi Camera
+- Controller
+    - someone said they would donate one, also Jared has an XBox 360  controller
+
+Other items that are probably of lower priority
+- depth snesor
+- leak sensor
+- battery
+- motors and ESCs
+    
+### Hardware Block Diagram from ArduSub GitBook
+
+![Block Diagram](./hardware_block_diagram.png)
+
+
+
 # ArduPilot Project
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/ardupilot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
